@@ -18,4 +18,5 @@ Colourful form with client-side validation set up using RegEx and vanilla JavaSc
  ## Things learnt/practiced:
  
  1. RegEx snippets for form inputs. This regexr snippet was a useful guide: https://regexr.com/3bfsi
+ 2. DOM manipulation, event listeners.
  
